@@ -2,6 +2,8 @@
 
 [![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![screenshot of deployed application](./assets/budget-tracker-screenshot.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
